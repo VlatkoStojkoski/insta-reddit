@@ -1,6 +1,6 @@
 {
 	"name": "insta-reddit",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Insta-Reddit is a JavaScript library for easily posting the hottest submission from Reddit to Instagram with built-in image padding and Slack messages.",
 	"keywords": [
 		"instagram",
